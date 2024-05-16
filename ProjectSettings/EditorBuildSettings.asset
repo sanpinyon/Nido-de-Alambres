@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuInicio.unity
+    guid: 34f011caeffdcf143b692eded64f79c2
+  - enabled: 1
+    path: Assets/Scenes/Configuracion.unity
+    guid: 6bcef8c0ca2571e429db2209bc66f927
+  - enabled: 1
+    path: Assets/Scenes/Calle.unity
+    guid: 45bb705397e3060448aa26156c205f60
+  - enabled: 1
+    path: Assets/Scenes/Comedor.unity
+    guid: 29df84df683e5be4fa1dbe012c198b94
+  - enabled: 1
+    path: Assets/Scenes/Capitulo1.unity
+    guid: 3f6785e2b9ddb8049bc05600980876d3
+  - enabled: 1
+    path: Assets/Scenes/Capitulo1.2.unity
+    guid: a8953e03d808ab04babe4d05d6ba9a42
+  - enabled: 1
+    path: Assets/Scenes/Clase.unity
+    guid: 7b67b4282c1327a4e9c25b011bb62be1
+  - enabled: 1
+    path: Assets/Scenes/Pasillo.unity
+    guid: eca33baf1018a6e4493c11b59214aeca
+  - enabled: 1
+    path: Assets/Scenes/Recreo.unity
+    guid: 12df95cb923e1c840b5788e3215f5dc2
+  - enabled: 1
+    path: Assets/Scenes/Ciclo.unity
+    guid: 8f3239217fe558640886206f823bb69d
+  - enabled: 1
+    path: Assets/Scenes/Caida.unity
+    guid: 14c0a8c9a1bfeb54fb336b5d3d77f1fb
+  - enabled: 1
+    path: Assets/Scenes/Solo.unity
+    guid: 5a61e0b654289a045b4b642f6a2ae63f
+  - enabled: 1
+    path: Assets/Scenes/Refugio.unity
+    guid: cfb41b937a79f9747987c5998608958b
+  - enabled: 1
+    path: Assets/Scenes/Sonrisa.unity
+    guid: ab69f45b5a5655041aeb33a3d962bb44
+  - enabled: 1
+    path: Assets/Scenes/Principio.unity
+    guid: c4b682e5833d3ed42a3b4c6f13cd0848
+  m_configObjects: {}
